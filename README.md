@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ritesh Kumar Yadav B.Tech candidate specializing in AI & Machine Learning (2023-2027).<br>Passionate about problem-solving and applying technical skills to real-world projects. <br>Experienced with Python, C, Java, DSA with Python and Frontend Basics .
+I am Ritesh Kumar Yadav B.Tech candidate specializing in AI & Machine Learning (2023-2027).<br>Passionate about problem-solving and applying technical skills to real-world projects. <br>Experienced with Python, C, Java, DSA with Python and Frontend Basics (HTML,CSS,JS) .
 
 
 ## 🌐 Socials:
